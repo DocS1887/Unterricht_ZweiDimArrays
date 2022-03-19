@@ -1,0 +1,15 @@
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\bin\Debug\net5.0\ZweiDimArrays.exe
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\bin\Debug\net5.0\ZweiDimArrays.deps.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\bin\Debug\net5.0\ZweiDimArrays.runtimeconfig.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\bin\Debug\net5.0\ZweiDimArrays.runtimeconfig.dev.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\bin\Debug\net5.0\ZweiDimArrays.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\bin\Debug\net5.0\ref\ZweiDimArrays.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\bin\Debug\net5.0\ZweiDimArrays.pdb
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ZweiDimArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ZweiDimArrays.AssemblyInfoInputs.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ZweiDimArrays.AssemblyInfo.cs
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ZweiDimArrays.csproj.CoreCompileInputs.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ZweiDimArrays.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ref\ZweiDimArrays.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ZweiDimArrays.pdb
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\ZweiDimArrays\ZweiDimArrays\obj\Debug\net5.0\ZweiDimArrays.genruntimeconfig.cache
